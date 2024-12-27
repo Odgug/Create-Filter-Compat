@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8.4",
+  "package": "net.joseph.filtercompat.mixin",
+  "refmap": "vaultmapper.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "plugin": "net.joseph.filtercompat.mixin.MixinConfigPlugin",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "server": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
